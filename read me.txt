@@ -1,0 +1,3 @@
+The B-spline drawing is based on the de-Boor algorithm;
+The Bezier curve drawing is based on the de-Casteljau algorithm.Besides, the adaptive rendering is based on the value of h to decide the flatness. 
+The version VC++ is 2010. 
